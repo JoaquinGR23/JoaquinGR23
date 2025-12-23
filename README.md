@@ -12,9 +12,11 @@
 ## Control de versiones
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-</p>
 
 <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" width="36" />
+</p>
+
+
 
 ## Editor de texto
 <p align="left">
