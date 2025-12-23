@@ -3,12 +3,6 @@
 - 📚 Actualmente, estoy cursando la carrera Analista Programador Universitario(APU) en la UNLP
 
 
-#
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndkZ2d0eDl1YmdneXIwNHo2dTVpaDh4cWFicDV4ODZ1ZHNxbXcwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KEIfDRpzyWObcwwF5K/giphy.gif" width="260" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndkZ2d0eDl1YmdneXIwNHo2dTVpaDh4cWFicDV4ODZ1ZHNxbXcwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KEIfDRpzyWObcwwF5K/giphy.gif" width="260" />
-</p>
-
 # 
 ## Lenguajes de programación
 <p align="left">
@@ -19,6 +13,14 @@
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
 </p>
+
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gitlab-colored.svg"
+       alt="GitLab"
+       title="GitLab"
+       width="36"
+       height="36" />
+</a>
 
 ## Editor de texto
 <p align="left">
