@@ -49,4 +49,4 @@ contenido...
 
 
 #
-![Texto Alternativo](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)
+<img src="[URL_DE_LA_IMAGEN](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)" width="120" height="120" />
