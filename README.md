@@ -7,7 +7,14 @@
 ```
   Herramientas | Tools
 ```
-
+| Lenguaje | Nivel | Uso principal |
+|---------|-------|---------------|
+| C | Básico | Programación estructurada |
+| C++ | Básico | POO |
+| Java | Intermedio | Backend / POO |
+| Python | Intermedio | Scripts / Data |
+| JavaScript | Básico | Frontend |
+| Bash | Básico | Automatización |
 | Lenguajes de programación | Control de versiones | Editor de texto | Lenguaje de marcado | Base de datos | SO |
 |------------|-----------|-----------|-----------|-----------| 
 | <p align="left">
