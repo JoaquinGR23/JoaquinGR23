@@ -50,4 +50,4 @@ contenido...
 
 #
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="260" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndkZ2d0eDl1YmdneXIwNHo2dTVpaDh4cWFicDV4ODZ1ZHNxbXcwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KEIfDRpzyWObcwwF5K/giphy.gif" width="260" />
