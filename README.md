@@ -22,10 +22,14 @@
        height="36"
        style="vertical-align: middle;" />
   Estadísticas
+</h3>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119983165" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119983165&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Joaquin-Gimenez-Ruiz" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119983165&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
-<div align="center">
-  <img src="https://stats-github.vercel.app/api/top-langs?username=JoaquinGR23&layout=compact&theme=radical" />
-</div>
 
 <h2 align="center">👨‍💻👩‍💻 Primer año 👨‍💻👩‍💻</h2>
 contenido...
