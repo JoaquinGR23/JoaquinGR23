@@ -21,4 +21,6 @@ contenido...
 contenido...
 
 
+<img src="https://raw.githubusercontent.com/usuario/repo/main/imagen.png" width="250" />
+
 
