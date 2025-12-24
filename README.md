@@ -7,7 +7,7 @@
 ```
   Herramientas | Tools
 ```
-| Lenguaje | Nivel | Paradigma | Uso principal | Herramientas | Estado |
+| Lenguajes de programación | Nivel | Paradigma | Uso principal | Herramientas | Estado |
 |---------|-------|-----------|---------------|--------------|--------|
 | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>| Básico | Estructurado | Algoritmos | GCC | Aprendido |
 | C++ | Básico | POO | POO | g++ | Aprendido |
