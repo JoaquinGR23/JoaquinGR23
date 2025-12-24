@@ -23,11 +23,11 @@
        style="vertical-align: middle;" />
   Estadísticas
 
-<div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaquinGR23&layout=compact&theme=radical" />
+
+</div>
 
 <h2 align="center">👨‍💻👩‍💻 Primer año 👨‍💻👩‍💻</h2>
 contenido...
