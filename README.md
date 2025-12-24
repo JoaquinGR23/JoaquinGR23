@@ -24,9 +24,7 @@
   Estadísticas
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaquinGR23&layout=compact&theme=radical" />
-
+  <img src="https://stats-github.vercel.app/api/top-langs?username=JoaquinGR23&layout=compact&theme=radical" />
 </div>
 
 <h2 align="center">👨‍💻👩‍💻 Primer año 👨‍💻👩‍💻</h2>
