@@ -17,12 +17,10 @@
 </h3>
 
 
-
-
 <h2 align="center">👨‍💻👩‍💻 Primer año 👨‍💻👩‍💻</h2>
 contenido...
 
-## 👨‍💻👩‍💻Segundo año👨‍💻👩‍💻
+<h2 align="center">👨‍💻👩‍💻 Segundo año 👨‍💻👩‍💻</h2>
 contenido...
 
 ## Mi drive de APU
