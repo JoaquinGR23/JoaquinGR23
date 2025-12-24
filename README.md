@@ -6,7 +6,8 @@
        style="vertical-align: middle;" />
 </h1>
 
-<h2>Sobre mi  - 📚 Actualmente, estoy cursando la carrera Analista Programador Universitario(APU) en la UNLP</h2>
+<h2>Sobre mi  
+  - 📚 Actualmente, estoy cursando la carrera Analista Programador Universitario(APU) en la UNLP</h2>
   
   
 ## ``` Tecnologías que conozco | Technologies That I Know ```
