@@ -21,6 +21,6 @@ contenido...
 contenido...
 
 
-<img src="https://raw.githubusercontent.com/usuario/repo/main/imagen.png" width="250" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cm8zdDliZnJibmVnZHlmbDcxcmd4Nzh1eXU3bjViazI1YTU5anU2dCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/CVv8VKzsB0I6hlG8XT/giphy.gif" width="250" />
 
 
