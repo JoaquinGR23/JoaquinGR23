@@ -20,7 +20,7 @@ contenido...
 contenido...
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cm8zdDliZnJibmVnZHlmbDcxcmd4Nzh1eXU3bjViazI1YTU5anU2dCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/CVv8VKzsB0I6hlG8XT/giphy.gif" width="250" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cm8zdDliZnJibmVnZHlmbDcxcmd4Nzh1eXU3bjViazI1YTU5anU2dCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/CVv8VKzsB0I6hlG8XT/giphy.gif" width="250" /><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cm8zdDliZnJibmVnZHlmbDcxcmd4Nzh1eXU3bjViazI1YTU5anU2dCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/CVv8VKzsB0I6hlG8XT/giphy.gif" width="250" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="250" /> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="250" />
 
