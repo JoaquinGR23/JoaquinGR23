@@ -20,7 +20,7 @@
        style="vertical-align: middle;" />
   Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaquinGR23&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquinGR23&layout=compact&theme=dark" />
 </p>
 
 
