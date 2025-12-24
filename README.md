@@ -23,9 +23,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO&show_icons=true&theme=dark&locale=en&layout=compact" />
 </p>
-<p align="center">
-  <img src="https://camo.githubusercontent.com/6924e54ffe637b4dcaa0b27f9b4f57aca33cb8af1249c2e0983ee45c8c965cb4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616e69693639332673686f775f69636f6e733d74727565267468656d653d6461726b266c6f63616c653d656e266c61796f75743d636f6d70616374" />
-</p>
 
 <h2 align="center">👨‍💻👩‍💻 Primer año 👨‍💻👩‍💻</h2>
 contenido...
