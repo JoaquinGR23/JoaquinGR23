@@ -49,9 +49,9 @@
   <tr>
     <!-- COLUMNA IZQUIERDA -->
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoaquinGR23&theme=dark&hide_border=false&langs_count=7" />
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoaquinGR23&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
     </td>
-    <!-- COLUMNA DERECHA -->
+    <!-- COLUMNA DERECHA (SE MANTIENE IGUAL) -->
     <td width="50%" align="center">
       <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119983165" target="_blank">
         <picture>
@@ -71,11 +71,12 @@ contenido...
 <h2 align="center">👨‍💻👩‍💻 Segundo año 👨‍💻👩‍💻</h2>
 contenido...
 
-## Mi drive de APU
+## Mi Drive de APU
 [![Drive](https://img.shields.io/badge/_Drive_Facultad-blue.svg)](https://drive.google.com/drive/folders/1Rwuf66HVFb_MBxr4RCUlUO-uRUOOo5C8)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 
 
 
