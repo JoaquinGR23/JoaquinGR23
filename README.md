@@ -45,15 +45,26 @@
        height="36"
        style="vertical-align: middle;" />
   Estadísticas
-</h3>
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119983165" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119983165&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Joaquin-Gimenez-Ruiz" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119983165&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-
+<table width="100%">
+  <tr>
+    <!-- COLUMNA IZQUIERDA -->
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoaquinGR23&theme=dark&hide_border=false&langs_count=7" />
+    </td>
+    <!-- COLUMNA DERECHA -->
+    <td width="50%" align="center">
+      <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119983165" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)"
+                  srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119983165&image_size=auto&color_scheme=dark">
+          <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119983165&image_size=auto&color_scheme=light"
+               alt="Dashboard stats"
+               width="100%">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 <h2 align="center">👨‍💻👩‍💻 Primer año 👨‍💻👩‍💻</h2>
 contenido...
 
@@ -65,5 +76,7 @@ contenido...
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+
 
 
