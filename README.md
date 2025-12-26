@@ -1,17 +1,10 @@
 
-<h1 align="center">
-  ¡Hola!
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
-       width="40"
-       style="vertical-align: middle;" />
-</h1>
+<h1 align="center"> ¡Hola! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" style="vertical-align: middle;" / </h1>
 
 <h2> Sobre mi </h2>
-
  - 📚 Actualmente, estoy cursando la carrera Analista Programador Universitario(APU) en la UNLP
  - Tecnologías que conozco | Technologies That I Know:
-   
-
+ 
 ``` Lenguajes de programación ```: 
 ![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=cplusplus&logoColor=white)
@@ -39,32 +32,21 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white)</br>
 
-<h3>
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif"
-       width="36"
-       height="36"
-       style="vertical-align: middle;" />
-  Estadísticas
+<h3><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif" width="36" height="36" style="vertical-align: middle;" /> Estadísticas
+  
 <table width="100%">
   <tr>
     <!-- COLUMNA IZQUIERDA -->
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoaquinGR23&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+    <td width="50%" align="center"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoaquinGR23&theme=radical&hide_border=false&no-bg=true&noframe=true&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /> 
     </td>
-    <!-- COLUMNA DERECHA (SE MANTIENE IGUAL) -->
-    <td width="50%" align="center">
-      <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119983165" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)"
-                  srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119983165&image_size=auto&color_scheme=dark">
-          <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119983165&image_size=auto&color_scheme=light"
-               alt="Dashboard stats"
-               width="100%">
-        </picture>
-      </a>
+    <!-- COLUMNA DERECHA -->
+    <td width="50%" align="center"><a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=119983165" target="_blank">
+        <picture><source media="(prefers-color-scheme: dark)"srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119983165&image_size=auto&color_scheme=dark"><img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=119983165&image_size=auto&color_scheme=light" alt="Dashboard stats" width="100%">
+        </picture> </a>
     </td>
   </tr>
 </table>
+
 <h2 align="center">👨‍💻👩‍💻 Primer año 👨‍💻👩‍💻</h2>
 contenido...
 
