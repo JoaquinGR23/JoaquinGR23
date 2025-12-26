@@ -48,8 +48,8 @@
 </table>
 
 <h2 align="center">👨‍💻👩‍💻 Primer año 👨‍💻👩‍💻</h2>
-<a href="https://github.com/JoaquinGR23/WebApiAutoress">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=WebApiAutoress&bg_color=0d1117&hide_border=true&v=2" />
+<a href="https://github.com/JoaquinGR23/Taller-programacion">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=Taller-programacion&bg_color=0d1117&hide_border=true&v=2" />
 </a>
 
 <h2 align="center">👨‍💻👩‍💻 Segundo año 👨‍💻👩‍💻</h2>
