@@ -49,6 +49,7 @@
 
 <h2 align="center">👨‍💻👩‍💻 Primer año 👨‍💻👩‍💻</h2>
 contenido...
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=WebApiAutoress&bg_color=0d1117&hide_border=true" />
 
 <h2 align="center">👨‍💻👩‍💻 Segundo año 👨‍💻👩‍💻</h2>
 contenido...
@@ -58,7 +59,6 @@ contenido...
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 
 
 
