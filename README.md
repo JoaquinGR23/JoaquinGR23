@@ -49,8 +49,9 @@
 
 <h2 align="center">👨‍💻👩‍💻 Primer año 👨‍💻👩‍💻</h2>
 contenido...
+<a href="https://github.com/JoaquinGR23/WebApiAutoress">
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=WebApiAutoress&bg_color=0d1117&hide_border=true" />
-
+</a>
 <h2 align="center">👨‍💻👩‍💻 Segundo año 👨‍💻👩‍💻</h2>
 contenido...
 
