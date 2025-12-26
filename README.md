@@ -53,7 +53,9 @@
 </a>
 
 <h2 align="center">👨‍💻👩‍💻 Segundo año 👨‍💻👩‍💻</h2>
-contenido...
+<a href="https://github.com/JoaquinGR23/Seminario-de-Lenguaje-Python">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=Seminario-de-Lenguaje-Python&bg_color=0d1117&hide_border=true&v=2" />
+</a>
 
 ## Mi Drive de APU
 [![Drive](https://img.shields.io/badge/_Drive_Facultad-blue.svg)](https://drive.google.com/drive/folders/1Rwuf66HVFb_MBxr4RCUlUO-uRUOOo5C8)
