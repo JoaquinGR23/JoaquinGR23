@@ -51,10 +51,42 @@
 <a href="https://github.com/JoaquinGR23/Taller-programacion">
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=Taller-programacion&bg_color=0d1117&hide_border=true&v=2" />
 </a>
+<a href="https://github.com/JoaquinGR23/CADP">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=CADP&bg_color=0d1117&hide_border=true&v=2" />
+</a>
+<a href="https://github.com/JoaquinGR23/Organizacion-De-Computadoras">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=Organizacion-De-Computadoras&bg_color=0d1117&hide_border=true&v=2" />
+</a>
+<a href="https://github.com/JoaquinGR23/Arquitectura-De-Computadoras">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=Arquitectura-De-Computadoras&bg_color=0d1117&hide_border=true&v=2" />
+</a>
+<a href="https://github.com/JoaquinGR23/MATE1">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=MATE1&bg_color=0d1117&hide_border=true&v=2" />
+</a>
+<a href="https://github.com/JoaquinGR23/MATE2">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=MATE2&bg_color=0d1117&hide_border=true&v=2" />
+</a>
 
 <h2 align="center">👨‍💻👩‍💻 Segundo año 👨‍💻👩‍💻</h2>
 <a href="https://github.com/JoaquinGR23/Seminario-de-Lenguaje-Python">
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=Seminario-de-Lenguaje-Python&bg_color=0d1117&hide_border=true&v=2" />
+</a>
+<a href="https://github.com/JoaquinGR23/ISO">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=ISO&bg_color=0d1117&hide_border=true&v=2" />
+</a>
+<a href="https://github.com/JoaquinGR23/INGE1">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=INGE1&bg_color=0d1117&hide_border=true&v=2" />
+</a>
+<a href="https://github.com/JoaquinGR23/AYED">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=AYED&bg_color=0d1117&hide_border=true&v=2" />
+</a>
+<a href="https://github.com/JoaquinGR23/FOD">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=FOD&bg_color=0d1117&hide_border=true&v=2" />
+</a>
+
+<h2 align="center">👨‍💻👩‍💻 Tercer año 👨‍💻👩‍💻</h2>
+<a href="https://github.com/JoaquinGR23/Mate3">
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=Mate3&bg_color=0d1117&hide_border=true&v=2" />
 </a>
 
 ## Mi Drive de APU
