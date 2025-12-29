@@ -93,15 +93,17 @@
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JoaquinGR23&repo=Mate3&bg_color=0d1117&hide_border=true&v=2" />
 </a>
 
-## Mi Drive de APU
+<h2 align="center"> Mi Drive de APU</h2>
+<div align="center">
+ 
 [![Drive](https://img.shields.io/badge/_Drive_Facultad-blue.svg)](https://drive.google.com/drive/folders/1Rwuf66HVFb_MBxr4RCUlUO-uRUOOo5C8)
 
 <h2 align="center"> 👾 Discord</h2>
 <div align="center">
  
-[![Discord](https://img.shields.io/badge/Discord-JoaquinGR23-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KZxsF4d7)
+[![Discord](https://img.shields.io/badge/Discord-Canal_De_Programadores-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KZxsF4d7)
+[![Discord](https://img.shields.io/badge/Discord-joa-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1114947758323945513)
 
-![Discord](https://img.shields.io/badge/Discord-JoaquinGR23-5865F2?style=flat&logo=discord&logoColor=white)
 <!-- FIN -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
