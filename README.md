@@ -102,7 +102,7 @@
 <div align="center">
  
 [![Discord](https://img.shields.io/badge/Discord-Canal_De_Programadores-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KZxsF4d7)
-[![Discord](https://img.shields.io/badge/Discord-joa-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1114947758323945513)
+[![Discord](https://img.shields.io/badge/Discord-joa01185-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1114947758323945513)
 
 <!-- FIN -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
