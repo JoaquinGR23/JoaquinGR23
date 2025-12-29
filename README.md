@@ -99,8 +99,9 @@
 <h2 align="center"> 👾 Discord</h2>
 <div align="center">
  
-[![Discord](https://img.shields.io/badge/Discord-JoaquinGR23-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/TU_SERVIDOR)
+[![Discord](https://img.shields.io/badge/Discord-JoaquinGR23-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KZxsF4d7)
 
+![Discord](https://img.shields.io/badge/Discord-JoaquinGR23-5865F2?style=flat&logo=discord&logoColor=white)
 <!-- FIN -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
