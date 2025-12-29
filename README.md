@@ -98,7 +98,7 @@
  
 [![Drive](https://img.shields.io/badge/_Drive_Facultad-blue.svg)](https://drive.google.com/drive/folders/1Rwuf66HVFb_MBxr4RCUlUO-uRUOOo5C8)
 
-<h2 align="center"> 👾 Discord</h2>
+<h2 align="center"> 👾 Discord 👾</h2>
 <div align="center">
  
 [![Discord](https://img.shields.io/badge/Discord-Canal_De_Programadores-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KZxsF4d7)
