@@ -13,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black) </br>
 ```Control de versiones```:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?style=flat&logo=gitlab&logoColor=white)</br>
 ```IDE's```:
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white)
