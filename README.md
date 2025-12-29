@@ -96,6 +96,11 @@
 ## Mi Drive de APU
 [![Drive](https://img.shields.io/badge/_Drive_Facultad-blue.svg)](https://drive.google.com/drive/folders/1Rwuf66HVFb_MBxr4RCUlUO-uRUOOo5C8)
 
+<h2 align="center"> 👾 Discord</h2>
+<div align="center">
+ 
+[![Discord](https://img.shields.io/badge/Discord-JoaquinGR23-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/TU_SERVIDOR)
+
 <!-- FIN -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
