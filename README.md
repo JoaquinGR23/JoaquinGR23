@@ -5,17 +5,8 @@
 ## Sobre mi 
  - Actualmente estoy cursando 3er año de la carrera Analista Programador Universitario(APU) en la UNLP
 
-<!-- Estadisticas -->
-<h3><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif" width="36" height="36" style="vertical-align: middle;" /> Estadísticas
-  
-<table width="100%">
-  <tr>
-                             <!-- COLUMNA IZQUIERDA -->
-    <td width="50%" align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoaquinGR23&theme=radical&hide_border=false&langs_count=10&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&cache_seconds=300" />
-</td>
-  </tr>
-</table>
+</br>
+</br>
 
 <!-- Materias -->
 <h2 align="center"> PRIMER AÑO </h2>
