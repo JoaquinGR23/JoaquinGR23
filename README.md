@@ -12,6 +12,34 @@
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" alt="Coding GIF">
 </p>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/01-hero-identity.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/01-hero-identity.svg?v=1">
+  <img alt="Presentación" src="./assets/01-hero-identity.svg?v=1" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/02-arsenal-joaquingr23.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/02-arsenal-joaquingr23.svg?v=1">
+  <img alt="Tecnologías" src="./assets/02-arsenal-joaquingr23.svg?v=1" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/03-architecture.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/03-architecture.svg?v=1">
+  <img alt="Arquitectura" src="./assets/03-architecture.svg?v=1" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/04-github-joaquingr23.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/04-github-joaquingr23.svg?v=1">
+  <img alt="Mi recorrido" src="./assets/04-github-joaquingr23.svg?v=1" width="100%">
+</picture>
+
+</div>
+
 <!-- Materias -->
 <h2 align="center"> PRIMER AÑO </h2>
 <a href="https://github.com/JoaquinGR23/Taller-programacion">
