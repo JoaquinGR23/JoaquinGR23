@@ -2,15 +2,9 @@
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" style="vertical-align: middle;">
  ¡HOLA! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" style="vertical-align: middle;" / </h1>
 
-## Sobre mi 
- - Actualmente estoy cursando 3er año de la carrera Analista Programador Universitario(APU) en la UNLP
+## Actualmente estoy en 3er año de la carrera Analista Programador Universitario(APU)- UNLP
 
 </br>
-</br>
-
-<p align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" alt="Coding GIF">
-</p>
 
 <div align="center">
 
