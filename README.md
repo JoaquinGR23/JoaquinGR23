@@ -1,4 +1,3 @@
-
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" style="vertical-align: middle;">
  ¡HOLA! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40" style="vertical-align: middle;" / </h1>
 
@@ -9,29 +8,28 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/01-hero-identity.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/01-hero-identity.svg?v=1">
-  <img alt="Presentación" src="./assets/01-hero-identity.svg?v=1" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b7c163e7-2885-4a12-9ba7-45fa9e74d82a">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b7c163e7-2885-4a12-9ba7-45fa9e74d82a">
+  <img alt="Mi recorrido" src="https://github.com/user-attachments/assets/b7c163e7-2885-4a12-9ba7-45fa9e74d82a" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/02-arsenal-joaquingr23.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/02-arsenal-joaquingr23.svg?v=1">
-  <img alt="Tecnologías" src="./assets/02-arsenal-joaquingr23.svg?v=1" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b9ce8853-3b33-4d3e-b667-2e52902ced55">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b9ce8853-3b33-4d3e-b667-2e52902ced55">
+  <img alt="Presentación" src="https://github.com/user-attachments/assets/b9ce8853-3b33-4d3e-b667-2e52902ced55" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/03-architecture.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/03-architecture.svg?v=1">
-  <img alt="Arquitectura" src="./assets/03-architecture.svg?v=1" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/01a8ea6f-b779-4cd2-9bd4-700fe838e316">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/01a8ea6f-b779-4cd2-9bd4-700fe838e316">
+  <img alt="Tecnologías" src="https://github.com/user-attachments/assets/01a8ea6f-b779-4cd2-9bd4-700fe838e316" width="100%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/04-github-joaquingr23.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/04-github-joaquingr23.svg?v=1">
-  <img alt="Mi recorrido" src="./assets/04-github-joaquingr23.svg?v=1" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8e0f07d5-bb2b-4c26-be85-a3b35eacc129">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/8e0f07d5-bb2b-4c26-be85-a3b35eacc129">
+  <img alt="Arquitectura" src="https://github.com/user-attachments/assets/8e0f07d5-bb2b-4c26-be85-a3b35eacc129" width="100%">
 </picture>
-
 </div>
 
 <!-- Materias -->
@@ -103,6 +101,4 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=flat&logo=windows&logoColor=white)</br>
-
-
 
