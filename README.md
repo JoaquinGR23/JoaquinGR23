@@ -62,15 +62,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Canal_De_Programadores-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/KZxsF4d7)
 [![Discord](https://img.shields.io/badge/Discord-joa01185-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1114947758323945513)
 
-<!-- FIN -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-```Lenguajes de programación```:
-![C](https://img.shields.io/badge/C-00599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black) </br>
 ```Control de versiones```:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
@@ -85,9 +77,6 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255.svg?style=flat&logo=eclipseide&logoColor=white)</br>
 ```Lenguaje de marcado```:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)</br>
-```Base de datos```:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)</br>
 ```SO```:
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black)
