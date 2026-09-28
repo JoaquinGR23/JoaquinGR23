@@ -8,6 +8,10 @@
 </br>
 </br>
 
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" alt="Coding GIF">
+</p>
+
 <!-- Materias -->
 <h2 align="center"> PRIMER AÑO </h2>
 <a href="https://github.com/JoaquinGR23/Taller-programacion">
